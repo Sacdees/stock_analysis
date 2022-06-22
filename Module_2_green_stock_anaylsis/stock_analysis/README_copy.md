@@ -1,4 +1,4 @@
-# An Analysis for our friend Steve in his new career
+# An Analysis for our friend Steve in his new finance career
 Steve has presented us with an excel sheet and asked us to help analyze the data he collected for investing in Green Energy.
 ---
 # VBA Macros with Excel to Automate
@@ -11,8 +11,8 @@ Steve has recently graduated and his begining a new career in the Financial Serv
 ## Analysis and Challenges - 
 Before we begin with our new analytical request, let us state that we intially ran a quick VBA code to get the information delivered to Steve as fast as possible. His first client - parents - are set on investing in alternative energy such as bio, hydro, geothermal and wind.  He would like to use this document to help convince the clients to spread their investments rather than put all their money into one particular stock. To 
 
-![2017_runtime_original](https://github.com/Sacdees/stock_analysis/blob/main/Challenge_2_Resources/2017_runtime_orginal.png)
-![2018_runtime_original](https://github.com/Sacdees/stock_analysis/blob/main/Challenge_2_Resources/2018_runtime_orginal.png)
+![2017_runtime_original](https://github.com/Sacdees/stock_analysis/blob/main/Challenge_2_Resources/2017_runtime_original.png)
+![2018_runtime_original](https://github.com/Sacdees/stock_analysis/blob/main/Challenge_2_Resources/2018_runtime_original.png)
 
 
 
