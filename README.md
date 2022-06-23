@@ -21,8 +21,9 @@ As you can see in the outcomes below, we were able to speed up this process a sm
 #### Disadvantages of refactoring
 However with the small sample size, the amount of time and effort put into making the process faster, and the time saved would be better spent invested in other processes.  With the original speeds rating on average of -72729.91 secs and the updated speed clocing in at 8888888888 secs, we can see that the process is hardly noticeable to the end user.  
 
-new_pic
-new_pic
+![2017_runtime_final](https://github.com/Sacdees/stock_analysis/blob/main/Challenge_2_Resources/2017_runtime_final.png)
+![2018_runtime_final](https://github.com/Sacdees/stock_analysis/blob/main/Challenge_2_Resources/2018_runtime_final.png)
+
 ---
 
 ### Challenges and Difficulties Encountered with both Original and Refactored
